@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+/////////////////////////////////////////////
+
+Commands used on this project:
+
+$> rails new react_app -d=postgresql -T --webpack=react
